@@ -98,7 +98,7 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 ![Decorative image.](Starter_Code/cumulative_returns_comparison_9month.png)
 
-![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_4_50.png.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_4_50.png)
 
 ![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_10_50.png)
 
