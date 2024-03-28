@@ -92,17 +92,17 @@ In this section, you’ll use the original parameters that the starter code prov
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
 
-![Decorative image.](cumulative_returns_comparison.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison.png)
 
-![Decorative image.](cumulative_returns_comparison_6month.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_6month.png)
 
-![Decorative image.](cumulative_returns_comparison_9month.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_9month.png)
 
-![Decorative image.](cumulative_returns_comparison_SMA_4_50.png.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_4_50.png.png)
 
-![Decorative image.](cumulative_returns_comparison_SMA_10_50.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_10_50.png)
 
-![Decorative image.](cumulative_returns_comparison_6month_SMA_10_50.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_6month_SMA_10_50.png)
 
 ---
 
