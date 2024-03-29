@@ -90,7 +90,7 @@ In this section, you’ll use the original parameters that the starter code prov
 
 ![Decorative image.](Starter_Code/cumulative_returns_comparison.png)
 
-![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_10_50.png)
+![Decorative image.](Starter_Code/cumulative_returns_comparison_6month.png)
 
 ![Decorative image.](Starter_Code/ada_boost_strategy_vs_actual_returns.png)
 
