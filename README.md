@@ -88,6 +88,18 @@ In this section, you’ll use the original parameters that the starter code prov
 
 3. Backtest the new model to evaluate its performance. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. Answer the following questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
+![Decorative image.](Starter_Code/cumulative_returns_comparison.png)
+
+![Decorative image.](Starter_Code/cumulative_returns_comparison_SMA_10_50.png)
+
+![Decorative image.](Starter_Code/ada_boost_strategy_vs_actual_returns.png)
+
+* New Model vs. Baseline Model:
+The new model, powered by an AdaBoost classifier, demonstrated a performance closely aligned with our provided baseline model.
+
+* New Model vs. Tuned Trading Algorithm:
+Contrastingly, when compared to our finely tuned trading algorithm, the new model did not perform as well. The tuned algorithm, which was adjusted to include a training peroid of 6 month, a short SMA window of 4 days and a long SMA window of 100 days, outperformed the new model. 
+
 ### Create an Evaluation Report
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
